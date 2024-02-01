@@ -1,7 +1,7 @@
 <div align="center">
    <a href="https://github.com/thquan105"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=4500&pause=1000&color=E2F711&background=FFFFFF00&center=true&vCenter=true&random=true&width=650&lines=H+E+L+L+O+!!!;Welcome+to+my+profile+%E2%99%A1" alt="THQUAN" /></a> 
    <h1>Hi there 👋</h1>
-   <h3 align="center">I'm <a href="https://github.com/thquan105">QUAN</a> from Vietnam. I'm a Backend Developer</h3>
+   <h3 align="center">I'm Quan from Vietnam. I'm a Backend Developer</h3>
 </div>
 
 ## 💫About Me :
@@ -31,4 +31,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=thquan105&icon=7&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=thquan105&icon=7&color=0)](https://github.com/thquan105)
