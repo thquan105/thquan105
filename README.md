@@ -22,9 +22,6 @@
 ## 📊GitHub Stats
 <p align="left">    
   <img title="stats" alt="streak" src="https://github-readme-stats.vercel.app/api?username=thquan105&theme=dracula&hide_border=false&include_all_commits=false&count_private=false"/>
-  &nbsp;
-  &nbsp;   
-  <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thquan105&theme=dracula&hide_border=false"/>
 </p>
 
 ### ✍️Random Dev Quote
